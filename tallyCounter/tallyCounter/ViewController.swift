@@ -36,3 +36,5 @@ class ViewController: UIViewController {
         print(segmentNumberController.selectedSegmentIndex)
     }
 }
+
+//create second screen for setting, such as background color or changing base reset value
